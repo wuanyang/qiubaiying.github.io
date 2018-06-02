@@ -7,7 +7,7 @@ description: "总有那么一处风景让你驻足，总有那么一个人让你
 keyword: "BY, BY Blog, way的博客, 阳光正好, web, 前端, python"
 url: "https://wuanyang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wuanyang/wuanyang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
