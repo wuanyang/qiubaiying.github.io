@@ -4,7 +4,7 @@ title:      My Work
 subtitle:   工作是一个让人了解自己的地方，他会让你疯狂注意细节
 date:       2018-06-08
 author:     风逸
-header-img: img/work.jpeg
+header-img: img/work.jpg
 catalog: true
 tags:
     - work
